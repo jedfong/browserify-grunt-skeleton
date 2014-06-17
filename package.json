@@ -1,0 +1,26 @@
+{
+    "name": "browserify-grunt-skeleton",
+    "version": "0.0.1",
+    "description": "Skeleton app using browserify and grunt",
+    "scripts": {
+        "test": "grunt"
+    },
+    "devDependencies": {
+        "browserify": "^4.1.10",
+        "chai": "^1.9.1",
+        "grunt": "^0.4.5",
+        "grunt-browserify": "^2.1.0",
+        "grunt-contrib-clean": "^0.5.0",
+        "grunt-contrib-connect": "^0.8.0",
+        "grunt-contrib-copy": "^0.5.0",
+        "grunt-contrib-jshint": "^0.10.0",
+        "grunt-contrib-uglify": "^0.5.0",
+        "grunt-contrib-watch": "^0.6.1",
+        "grunt-mocha-phantomjs": "^0.5.0",
+        "lodash": "^2.4.1",
+        "mocha": "^1.20.1",
+        "mocha-phantomjs": "^3.4.1",
+        "phantomjs": "^1.9.7-8",
+        "sinon": "^1.10.2"
+    }
+}
